@@ -1,0 +1,8 @@
+node_modules
+bower_components
+/generators/*
+/test/*
+demo
+.idea
+.DS_Store
+release.txt
